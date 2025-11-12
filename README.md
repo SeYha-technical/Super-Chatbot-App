@@ -1,16 +1,9 @@
-# chat_bot
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="300" height="1000" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-11-12 at 12 46 50" src="https://github.com/user-attachments/assets/ccdbfb51-4ff5-4e34-804b-ca1a4a300bfa" />
+<img width="300" height="1000" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-11-12 at 12 46 57" src="https://github.com/user-attachments/assets/aa6d88e9-e4b6-4bdb-9b35-ff42ed4b4c46" />
+<img width="300" height="1000" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-11-12 at 12 48 03" src="https://github.com/user-attachments/assets/98bed594-7275-4478-b61c-e23853d4f589" />
+<img width="300" height="1000" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-11-12 at 12 56 47" src="https://github.com/user-attachments/assets/2b1104d6-3654-498b-9225-921963b180fa" />
+<img width="300" height="1000" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-11-12 at 12 57 26" src="https://github.com/user-attachments/assets/c7087ea9-0a5e-4ec7-8cea-c3238c2f8b69" />
+<img width="300" height="1000" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-11-12 at 12 57 33" src="https://github.com/user-attachments/assets/82db7df1-767b-4634-8b8c-701ba714d2d3" />
+<img width="300" height="1000" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-11-12 at 12 57 53" src="https://github.com/user-attachments/assets/03163d55-9081-4a69-90db-1e1413892ad2" />
+<img width="300" height="1000" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-11-12 at 12 57 56" src="https://github.com/user-attachments/assets/4ac88f4b-ef7a-44d8-bb59-b65764a50197" />
+<img width="300" height="1000" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-11-12 at 12 58 17" src="https://github.com/user-attachments/assets/7cb650a6-5954-42f9-8ef3-ae281e354293" />
