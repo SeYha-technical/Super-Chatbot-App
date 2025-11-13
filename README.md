@@ -7,3 +7,7 @@
 <img width="300" height="1000" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-11-12 at 12 57 53" src="https://github.com/user-attachments/assets/03163d55-9081-4a69-90db-1e1413892ad2" />
 <img width="300" height="1000" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-11-12 at 12 57 56" src="https://github.com/user-attachments/assets/4ac88f4b-ef7a-44d8-bb59-b65764a50197" />
 <img width="300" height="1000" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-11-12 at 12 58 17" src="https://github.com/user-attachments/assets/7cb650a6-5954-42f9-8ef3-ae281e354293" />
+<img width="300" height="1000" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-11-13 at 09 54 49" src="https://github.com/user-attachments/assets/49aef43d-b901-4ff3-bc95-f6ab9796d34e" />
+<img width="300" height="1000" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-11-13 at 09 57 40" src="https://github.com/user-attachments/assets/f2d42ae3-5662-47ac-8be1-d8b22f9decf2" />
+<img width="300" height="1000" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-11-13 at 09 57 42" src="https://github.com/user-attachments/assets/f74bb691-d48c-4721-99dd-600c0d33a2db" />
+<img width="300" height="1000" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-11-13 at 09 58 04" src="https://github.com/user-attachments/assets/1fef69ba-e8d0-4d57-9e42-ea950e82ea99" />
